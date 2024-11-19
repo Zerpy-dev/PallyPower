@@ -761,6 +761,231 @@
 					</Anchor>
 				</Anchors>
 			</Button>
+			<Button name = "$parentPlayerButton16" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-249"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton17" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-262"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton18" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-275"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton19" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-288"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton20" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-301"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton21" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-314"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton22" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-327"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton23" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-340"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton24" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-353"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton25" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-366"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton26" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-379"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton27" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-392"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton28" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-405"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton29" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-418"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton30" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-431"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton31" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-444"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton32" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-457"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton33" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-470"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton34" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-483"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton35" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-496"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton36" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-509"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton37" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-522"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton38" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-535"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton39" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-548"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
+			<Button name = "$parentPlayerButton40" inherits = "PlayerButtonTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT">
+						<Offset>
+							<AbsDimension x = "3" y = "-561"/>
+						</Offset>
+					</Anchor>
+				</Anchors>
+			</Button>
 		</Frames>
 	</Frame>
 
@@ -1745,6 +1970,131 @@
 			<Frame name = "$parentPlayer15" inherits = "UserTemplate">
 				<Anchors>
 					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer14" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer16" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer15" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer17" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer16" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer18" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer17" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer19" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer18" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer20" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer19" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer21" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer20" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer22" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer21" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer23" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer22" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer24" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer23" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer25" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer24" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer26" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer25" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer27" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer26" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer28" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer27" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer29" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer28" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer30" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer29" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer31" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer30" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer32" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer31" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer33" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer32" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer34" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer33" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer35" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer34" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer36" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer35" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer37" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer36" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer38" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer37" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer39" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer38" relativePoint = "BOTTOMLEFT"/>
+				</Anchors>
+			</Frame>
+			<Frame name = "$parentPlayer40" inherits = "UserTemplate">
+				<Anchors>
+					<Anchor point = "TOPLEFT" relativeTo = "$parentPlayer39" relativePoint = "BOTTOMLEFT"/>
 				</Anchors>
 			</Frame>
 			<Button name = "$parentResizeButton" inherits = "PallyPowerResizeTemplate" hidden = "false">
